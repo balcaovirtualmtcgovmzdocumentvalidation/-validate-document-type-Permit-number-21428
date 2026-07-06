@@ -73,7 +73,7 @@
                               Segurança</strong></li>
                           <li><strong>Departamento dos Tranportes <br>
                             </strong></li>
-                          <li>AKO 656 MP</li>
+                          <li>ACX 925 MC</li>
                         </ul>
                       </div>
                       <div class="invoice-from">
@@ -84,7 +84,7 @@
                           <li><strong>Department of Transport</strong></li>
                           <li>Permit of Mercadoria (Regular)</li>
                         </ul>
-                        AKO 656 MP<br>
+                        ACX 925 MC<br>
                         <ul class="list-unstyled text-right">
                         </ul>
                       </div>
@@ -143,11 +143,11 @@
                                   Registration Car</th>
                                 <th class="text-center"><br>
                                   <br>
-                                  AKO 656 MP</th>
+                                  ACX 925 MC</th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Marca / Brand</th>
-                                <th class="text-center">VOLVO</th>
+                                <th class="text-center">NISSAN </th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Tipo de
@@ -157,7 +157,7 @@
                               <tr>
                                 <th colspan="2" class="text-right">Capacidade /
                                   Capacity</th>
-                                <th class="text-center">+25.001kg</th>
+                                <th class="text-center">De 3.501 ate 8.000kg</th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Duração /
@@ -173,7 +173,8 @@
                                           style="color: #2e3138;"><span style="font-family: &quot;Poppins&quot;,sans-serif;"></span></span></span></span></em><em
                                     style="font-weight: bold; font-style: normal; color: rgb(118, 118, 118); font-family: Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span
                                       style="color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(211, 227, 253); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><span
-                                        style="color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></span></em>+25.001kg</th>
+                                        style="color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></span></em>De
+                                  3.501 ate 8.000kg</th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">ORIGEM /
